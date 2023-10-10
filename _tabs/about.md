@@ -33,4 +33,4 @@ If I'm not buried in terminals or code editors, catch me at the gym getting afte
 
 ### Chat With Me
 
-Got a meme to share? Wanna chat about the latest security topic? Or just wanna geek out? Ping me on [LinkedIn](https://www.linkedin.com/in/gunnar-andrews-317995136/) or [Twitter](https://twitter.com/G0LDEN_infosec), or join my [discord](httpsL//discord.gg/BJcDKW4Ke6).
+Got a meme to share? Wanna chat about the latest security topic? Or just wanna geek out? Ping me on [LinkedIn](https://www.linkedin.com/in/gunnar-andrews-317995136/) or [Twitter](https://twitter.com/G0LDEN_infosec), or join my [discord](https://discord.gg/BJcDKW4Ke6).
