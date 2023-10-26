@@ -1,0 +1,20 @@
+# How I Set Goals For Myself
+Welcome back, everyone. I have had this topic on my mind lately and wanted to brain dump about it for a while here. I know that there is a lot of information out there about setting goals for yourself, and how you are supposed to go about that to come up with "good" goals. I don't pretend to be an expert in the subject, but I wanted to go over how I think about goals and what steps I take to set some goals for myself.
+
+## What Areas Of My Life Do I Set Goals In?
+I like the idea of having something I am trying to achieve in every aspect of my life. That does not work for everyone, but it works for me. Whenever I walk into the gym, I walk in with a plan to execute. This normally leads to a more enjoyable experience, and the workout normally goes much smoother. I do this in my job as well. When I sit at the computer every day I have a task list. This helps me stay focused and see what I want to get done that specific day. I also *really* enjoy the feeling of checking things off a list as I complete them. At the end of the day, I get to look back on my list and see all the great things I accomplished that day. Outside of work and exercise, I have other goals as well. Financial goals, mindfulness goals, etc.
+
+## Why So Many Goals Man?!
+The answer is simple. I like giving myself something to *aim* for. One important thing I should say is that if I don't hit my goals I am *NOT* upset at myself. I re-evaluate and go again! In general, having something to aim for makes it much easier for me to determine what skills I should learn next, what the next most important task is, and how much I am improving over time. If I did not have goals for myself, I find myself getting lost in distractions and unsure what the next task I should attack is. Don't get me wrong, I love to take time off and have time to just do things I enjoy without goals. But for a lot of things in my life, I enjoy the process of improvement. It makes the journey through just about anything worth it for me. If you have not heard of Graham Weaver, he makes amazing content about this type of thing. He talks a lot about setting goals as if you could not fail, and then working backwards from there to set tasks for yourself.
+
+## Kaizen
+I came across this from a content creator that I watch regularly. Kaizen is the idea of ongoing or continuous improvement. I love implementing this into my life. I am not always concerned about WHEN a certain goal will be reached. I am more concerned with whether or not I am making progress towards that goal. I like to try and live my life getting 1% better every day. It may not seem like much, but very small improvements over a period of time will compound in ways that you can not imagine! Shown here:
+![Kaizen improvement](../assets/kaizen.jpg)
+
+If you can go through a whole year getting just 1% better every day, you can see that by the end of that year, the improvement can compound. Putting you in an amazing spot by the end of the year. But that compounding works both ways and can drag you in the wrong direction as well. This is why I focus so much on making some kind of improvement towards my goals every day. Any amount of progress assures me that I am making my way up the correct side of that graph above!
+
+## Try It Out
+I would encourage anyone to give some of this a try. Do not put any pressure on yourself. Pick any goal that gets you excited, and that makes sense for you, then start setting yourself tasks to make a small amount of progress towards that goal. It should not be a huge change or something that is ridiculously out of your norm. Start setting yourself tasks that move you towards that goal in a small way. Over time, I think that you will find amazing things happen. 
+
+
+**Thank you so much for reading, and I hope you all know you are amazing!**
