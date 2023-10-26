@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-<img src="../assets/images/profilepic.jpg" alt="Alt text for the image" width="235" height="400" style="float: left; margin-right: 10px;"/>
+<img src="/assets/images/profilepic.jpg" alt="Alt text for the image" width="235" height="400" style="float: left; margin-right: 10px;"/>
 
 ## Who Am I
 
