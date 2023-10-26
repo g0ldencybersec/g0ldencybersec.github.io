@@ -7,7 +7,7 @@ order: 4
 
 ## Who Am I
 
-Hey there! I'm Gunnar Andrews, but on the internet I go by **g0lden**. Dive into my world of **cybersecurity**, **software magic**, and **IT wizardry**. Been at it for about 5 years now, and man, what a ride it's been! 
+Hey there!! I'm Gunnar Andrews, but on the internet I go by **g0lden**. Dive into my world of **cybersecurity**, **software magic**, and **IT wizardry**. Been at it for about 5 years now, and man, what a ride it's been! 
 
 I currently have a Bachelor's degree in computer engineering where I focused on software development and cybersecurity. I also currently hold an OSCP, OSWA, and OSWE. I love to spend time in the bug bounty community, and I also enjoy building new tools for the community!
 
