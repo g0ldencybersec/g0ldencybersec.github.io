@@ -9,7 +9,7 @@ The answer is simple. I like giving myself something to *aim* for. One important
 
 ## Kaizen
 I came across this from a content creator that I watch regularly. Kaizen is the idea of ongoing or continuous improvement. I love implementing this into my life. I am not always concerned about WHEN a certain goal will be reached. I am more concerned with whether or not I am making progress towards that goal. I like to try and live my life getting 1% better every day. It may not seem like much, but very small improvements over a period of time will compound in ways that you can not imagine! Shown here:
-![Kaizen improvement](../images/kaizen.jpg)
+![Kaizen improvement](./images/kaizen.jpg)
 
 If you can go through a whole year getting just 1% better every day, you can see that by the end of that year, the improvement can compound. Putting you in an amazing spot by the end of the year. But that compounding works both ways and can drag you in the wrong direction as well. This is why I focus so much on making some kind of improvement towards my goals every day. Any amount of progress assures me that I am making my way up the correct side of that graph above!
 
